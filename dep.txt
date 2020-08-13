@@ -1,0 +1,2 @@
+npm i --save-dev nodemon
+npm i express mongoose ejs
